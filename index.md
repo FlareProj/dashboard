@@ -4,4 +4,4 @@
 
 [Find newly created links (Coming soon!)]()
 
-[Sign out](/login/login.html)
+[Sign out](/beta.login/login.html)
