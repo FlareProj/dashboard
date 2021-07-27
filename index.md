@@ -4,4 +4,6 @@
 
 [Find newly created links (Coming soon!)]()
 
+[Statistics](/stats/index.html)
+
 [Sign out](/beta.login/login.html)
